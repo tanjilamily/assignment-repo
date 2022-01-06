@@ -1,0 +1,169 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h1{
+    /* font-size: 60px; */
+}
+.first-sec{
+    display: flex;
+    justify-content: space-between;
+}
+.tomato{
+    color: tomato;
+}
+.first-width{
+    padding-left: 60px;
+}
+.my{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(37, 37, 73);
+}
+.my2{
+    color: coral;
+}
+.card{
+    display: flex;
+    padding-left: 130px;
+}
+.card2{
+    padding: 30px;
+    border: 2px solid white;
+    border-radius: 30px;
+    margin: 5px;
+    text-align: start;
+    margin-left: 1%;
+    padding-left: 20px;
+}
+.h{
+    color: rgb(70, 68, 68);
+}
+.mission{
+    background-color: rgb(224, 241, 241);
+}
+.mission img{
+    width: 130px;
+}
+.vission img{
+    width: 130px;
+}
+.goals img{
+    width: 130px;
+}
+.vission{
+    background-color: rgb(252, 239, 238);
+}
+.goals{
+    background-color: rgb(250, 237, 202);
+}
+.level2{
+    padding: 30px;
+    border: 2px solid white;
+    border-radius: 30px;
+    margin: 5px;
+    text-align: start;
+    margin-left: 1%;
+    padding-left: 20px;
+}
+h4{
+    color: rgb(70, 68, 68);
+}
+.mission{
+    background-color: rgb(224, 241, 241);
+}
+.mission img{
+    width: 130px;
+}
+.vission img{
+    width: 130px;
+}
+.goals img{
+    width: 130px;
+}
+.vission{
+    background-color: rgb(252, 239, 238);
+}
+.goals{
+    background-color: rgb(250, 237, 202);
+}
+.second-width{
+    display: flex;
+    justify-content: end;
+    width:100%;
+}    
+.second-width img{
+      width:50%;
+      padding-right: 20%;
+      padding-bottom: 40%;
+}
+.link-button{
+       text-decoration: none;
+      background-color: orangered;
+      padding: 10px 40px;
+      color: white;
+      border-radius: 5px;
+} 
+.text-alg{
+    text-align: center;
+}
+.oranged{
+      color: orangered;
+}
+
+.third-section{
+       
+       display: flex;
+       padding-left: 10%;
+       padding-right:10%;
+}
+.third-section img{
+        width:70%;
+}
+h2{
+    font-size: 50px;
+}
+.fourth-sec{
+    width: 100%;
+    display: flex;
+    padding-top: 8%;
+}
+.fourthsec-first-width{
+    padding-left: 40px;
+}
+.fourth-sec img{
+           width: 70%;
+           padding-left: 30px;
+}
+.footer-tag{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+   background-color: black;
+   color: white;
+   margin-top: 50px;
+}
+.taken-likes{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.taken-likes h5{
+    font-size: 15px;
+}
+.taken-likes-box{
+    box-shadow: 10px 10px 10px 5px gray;
+    display: flex;
+    border-radius: 10px;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 30px;
+}
+#youtube-likes{
+    margin-left: 20%;   
+}
+#insta-likes{
+    margin-left: 20%;
+    
+}
+#dribble-likes{
+    margin-left: 20%;
+}
